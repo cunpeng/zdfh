@@ -13,21 +13,21 @@
 - 模式2 index.php?mode=2&content=后面是卡密
 - 模式3 index.php?mode=3&content=后面是卡密
 
-模式1 名创优品等条形码模式
-https://napt.cn/zdfh/index.php?mode=1&content=43008888888888888888
+- 模式1 名创优品等条形码模式
+- https://napt.cn/zdfh/index.php?mode=1&content=43008888888888888888
 
-模式2 星巴克等二维码模式（默认29x29）
-https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888
-https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&size=33 调整大小
+- 模式2 星巴克等二维码模式（默认29x29）
+- https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888
+- https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&size=33 调整大小
 
-模式3 肯德基等双码模式（条形码适配肯德基、二维码默认21x21）注意肯德基需去除空格
-https://napt.cn/zdfh/index.php?mode=3&content=KFG88A8888L8
+- 模式3 肯德基等双码模式（条形码适配肯德基、二维码默认21x21）注意肯德基需去除空格
+- https://napt.cn/zdfh/index.php?mode=3&content=KFG88A8888L8
 
-需要底部加文字在后面加&text=内容
-例如 12345678 
-例如 双行 间隔符号 订单号|VIP用户
-https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&text=12345678
-https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&text=订单号|VIP用户
+- 需要底部加文字在后面加&text=内容
+- 例如 12345678 
+- 例如 双行 间隔符号 订单号|VIP用户
+- https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&text=12345678
+- https://napt.cn/zdfh/index.php?mode=2&content=7310182130189888888=FE0F1F8882888888&text=订单号|VIP用户
 
 
 ## 短链
